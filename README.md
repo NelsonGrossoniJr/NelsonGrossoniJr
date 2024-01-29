@@ -1,8 +1,9 @@
 <h1>Olá galera! Eu sou Nelson Grossoni. Atualmente estou cursando engenharia de software!</h1> 
 
 
-<h2>Conhecimento nas Tecnologias:</h2>
+
 <div style="display: inline_block"><br>
+  <h2>Conhecimento nas Tecnologias:</h2>
   <img align="center" alt="Nelson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nelson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nelson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
