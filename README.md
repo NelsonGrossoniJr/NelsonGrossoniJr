@@ -1,5 +1,9 @@
 <h1>Olá galera! Eu sou Nelson Grossoni. Atualmente estou cursando engenharia de software!</h1> 
 
+<div>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonGrossoniJr&layout=compact' alt='Top Langs' style='width: 310px'>
+</div>
+
 <div style="display: inline_block">
   <h2>Conhecimento nas Tecnologias:</h2>
   <img align="center" alt="Nelson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
